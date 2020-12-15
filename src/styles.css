@@ -6,8 +6,8 @@
 .button {
   background: #ff4931;
   border-radius: 50%;
-  width: 64px;
-  height: 64px;
+  width: 35px;
+  height: 35px;
   display: flex;
   flex-direction: column;
   justify-content: center;
